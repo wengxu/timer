@@ -1,0 +1,13 @@
+Enter number of minutes or q to quit: 1
+1:00 // counting down 
+
+Enter number of minutes or q to quit: q
+exit
+
+Enter number of minutes or q to quit: abc
+Enter number of minutes or q to quit: 1
+1:00 // counting down
+
+Enter number of minutes or q to quit: abc
+Enter number of minutes or q to quit: q
+exit 
